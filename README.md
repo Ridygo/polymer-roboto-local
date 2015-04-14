@@ -1,2 +1,2 @@
-# polymer-roboto-local
-Polymer element to include Roboto font locally
+# roboto-local
+Use HTML import to include Roboto font locally
